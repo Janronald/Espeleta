@@ -1,0 +1,15 @@
+.logo-img{
+    width: 20px;
+    height: 30px;
+    border-radius: 20%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+
+/*
+* steps selection
+*/
+
+.steps {
+    padding-top: 40px 0;
+}
